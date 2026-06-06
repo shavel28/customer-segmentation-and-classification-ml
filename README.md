@@ -105,34 +105,6 @@ Proyek ini berhasil menghasilkan:
 
 ---
 
-## ▶️ Cara Menjalankan Proyek
-
-Clone repository:
-
-```bash
-git clone https://github.com/shavel28/customer-segmentation-and-classification.git
-```
-
-Masuk ke folder proyek:
-
-```bash
-cd customer-segmentation-and-classification
-```
-
-Install dependensi:
-
-```bash
-pip install -r requirements.txt
-```
-
-Jalankan Jupyter Notebook:
-
-```bash
-jupyter notebook
-```
-
----
-
 ## 👩‍💻 Penulis
 
 **Shava Selvia Ramadhani S**
